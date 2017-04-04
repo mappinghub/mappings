@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "diagnoses",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD patient diagnoses to FHIR JSON-LD, using a JavaScript translator",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "path": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/js/translate/cmumps2fhir_diagnoses.js"
+}
