@@ -1,0 +1,26 @@
+{
+  "name": "mappings",
+  "description": "Mappings registry",
+  "version": "0.0.1",
+  "author": {
+    "name": "Glenna Mayo",
+    "email": "glenna.hokukahu@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mappinghub/mappings"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "~5.2.0",
+    "sinon": "^1.17.2"
+  },
+  "dependencies": {
+    "handlebars": "~4.0.4",
+    "promise": "^7.0.4",
+    "request": "^2.79.0",
+    "underscore": "~1.8.3",
+    "walk": "^2.3.9"
+  }
+}
