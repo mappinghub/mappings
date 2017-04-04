@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Pharmacy_Patient-55",
+  "version": "0.1",
+  "description": "Translates a CMUMPS JSON-LD pharmacy patient record (patient info of interest to pharmacy only) to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Pharmacy-Patient-55.shex"
+}

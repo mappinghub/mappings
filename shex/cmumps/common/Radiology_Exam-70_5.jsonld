@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Radiology_Exam-70_5",
+  "version": "0.1",
+  "description": "Translates a CMUMPS JSON-LD patient radiology exam to the common schema, using ShEx",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Radiology-Exam-70_5.shex"
+}
