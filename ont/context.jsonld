@@ -1,5 +1,5 @@
 {
     "@context": {
-        "@vocab": "https://github.com/mappinghub/mappings/"
+        "@vocab": "https://github.com/mappinghub/mappings/ont/"
     }
 }

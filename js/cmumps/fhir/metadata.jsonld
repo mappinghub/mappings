@@ -1,4 +1,4 @@
 { 
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "target": "fhir"
+  "targetFormat": "fhir"
 }
