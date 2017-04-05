@@ -4,7 +4,7 @@
   "description": "Mapping Hub Mappings",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'tests in views repo'",
+    "test": "echo 'tests in views repo'"
   },
   "repository": {
     "type": "git",
