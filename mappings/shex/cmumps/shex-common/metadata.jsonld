@@ -1,4 +1,5 @@
 { 
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "sourceFormat": "cmumps",
   "targetFormat": "shex-common"
 }
