@@ -1,4 +1,5 @@
 { 
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "targetFormat": "common"
+  "license": "Apache-2.0",
+  "sourceFormat": "cmumps"
 }

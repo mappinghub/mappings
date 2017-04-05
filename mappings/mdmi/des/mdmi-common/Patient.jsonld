@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Patient",
+  "version": "0.1",
+  "description": "Translates DES patient demographics to the MDMI common schema",
+  "author": {
+      "name": "Ken Lord",
+      "email": "klordmdmi@gmail.com"
+  },
+  "sourceCode": "http://example.com/"
+}
