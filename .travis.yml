@@ -1,8 +1,6 @@
-language: node_js
-node_js:
-- 7
+language: bash
 install: true
-script: npm run triggerViews
+script: ./travis.sh
 env:
   global:
     secure: OtVCL6IhrA9qjg4og/snzS1nQCzr+IlrHLHTxQslkDoRT74InKZN9fG1Y8CwpnFag0OE3KqnlGmqRGhUcfSR8uifMPPr78iRXGP8m3oya+87Um2DzxqtgZSdvgT9CH4Y0wqapnnLwGH04dd7wvoZMKGh8g/clAza+ZgWwh69Yuk8gP1FE+oHwWg3A/YRZu9UGOOPr1O9Ye91zQiDL6IdTFB7cBGvXB9lFbjFfoSc8I++vBoFhUqriDhmDE2ClRF4sPqkJuwJ7MvQiOza47r1amCKs2M0fTLs+95+vnGulVGuHpicunLStmxSyoveO+O2IPbk3rXefc0KhLNgJsSNR6RGZfKi39qc73AIVgL9BMcA+JJcroisNX3Y/vTWCGuh2S/PGlWsp37Y+dxV9gvPmU834rTxitlBzWUDjpx7FJ/2dMPmUONOe94djOt9SboY7uGg6IfrHz2I3wov0jMzT6DBpAtW37q9hcjBERYLjfqKUME4woLhOD3XO4hom5KjjRoghL9/dLtdvV6GdYmZJ+kbAa/EPi/FXDTURVywMXeko/FXjsGb+TCY0E/FU+p3p4S5bLzZlSZi9xXAPRo8nQ5KHCCnKvdE7zJDjUV00z/9soyGsYxGZuFsW8stKO+z2EuIWoPNKoTE3fdvxwNt1dr+BEa8zTLbMz0Hc09rz9Q=
