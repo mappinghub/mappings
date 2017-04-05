@@ -1,0 +1,21 @@
+{
+  "name": "mapping-hub-mappings",
+  "version": "0.0.1",
+  "description": "Mapping Hub Mappings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'tests in views repo'",
+    "triggerViews": "sh travis.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mappinghub/mappings.git"
+  },
+  "author": "glenna-m",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mappinghub/mappings/issues"
+  },
+  "homepage": "https://github.com/mappinghub/mappings#readme"
+}
+
