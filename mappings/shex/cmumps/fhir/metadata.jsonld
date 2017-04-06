@@ -1,5 +1,0 @@
-{ 
-  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "sourceFormat": "shex-common",
-  "targetFormat": "fhir"
-}

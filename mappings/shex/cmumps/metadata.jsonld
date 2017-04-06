@@ -1,4 +1,5 @@
 { 
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "license": "Apache-2.0"
+  "maps": [ { source: "cmumps", target: "shex-common"},
+	    { source: "shex-common", target: "cmumps"} ]
 }
