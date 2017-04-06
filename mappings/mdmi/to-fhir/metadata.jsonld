@@ -1,4 +1,4 @@
 { 
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "maps": [ { source: "mdmi-common", target: "fhir"} ]
+  "maps": [ { "source": "mdmi-common", "target": "fhir"} ]
 }
