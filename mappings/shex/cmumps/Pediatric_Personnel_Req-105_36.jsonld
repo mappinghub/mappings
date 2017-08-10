@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Pediatric_Personnel_Req-105_36",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Pediatric_Personnel_Req-105_36 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Pediatric_Personnel_Req-105_36.shex"
+}

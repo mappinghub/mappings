@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Dining_Hall_Collections-8090",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Dining_Hall_Collections-8090 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Dining_Hall_Collections-8090.shex"
+}

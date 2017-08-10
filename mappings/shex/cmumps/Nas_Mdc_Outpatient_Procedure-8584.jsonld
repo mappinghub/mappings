@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Nas_Mdc_Outpatient_Procedure-8584",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Nas_Mdc_Outpatient_Procedure-8584 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Nas_Mdc_Outpatient_Procedure-8584.shex"
+}

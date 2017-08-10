@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Tcpr_Error_Messages-52012_6",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Tcpr_Error_Messages-52012_6 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Tcpr_Error_Messages-52012_6.shex"
+}

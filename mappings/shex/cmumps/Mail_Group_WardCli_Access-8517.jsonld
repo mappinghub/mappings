@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Mail_Group_WardCli_Access-8517",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Mail_Group_WardCli_Access-8517 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Mail_Group_WardCli_Access-8517.shex"
+}

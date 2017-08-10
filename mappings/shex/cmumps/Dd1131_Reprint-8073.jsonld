@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Dd1131_Reprint-8073",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Dd1131_Reprint-8073 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Dd1131_Reprint-8073.shex"
+}

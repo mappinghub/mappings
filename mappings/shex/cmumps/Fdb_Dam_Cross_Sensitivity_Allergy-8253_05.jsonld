@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Fdb_Dam_Cross_Sensitivity_Allergy-8253_05",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Fdb_Dam_Cross_Sensitivity_Allergy-8253_05 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Fdb_Dam_Cross_Sensitivity_Allergy-8253_05.shex"
+}
