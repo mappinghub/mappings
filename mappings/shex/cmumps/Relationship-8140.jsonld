@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Relationship-8140",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Relationship-8140 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Relationship-8140.shex"
+}

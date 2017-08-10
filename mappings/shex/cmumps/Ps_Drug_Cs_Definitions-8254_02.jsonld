@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Ps_Drug_Cs_Definitions-8254_02",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Ps_Drug_Cs_Definitions-8254_02 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Ps_Drug_Cs_Definitions-8254_02.shex"
+}

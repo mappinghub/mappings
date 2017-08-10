@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Pas_Mcp_Site_Parameters-8506",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Pas_Mcp_Site_Parameters-8506 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Pas_Mcp_Site_Parameters-8506.shex"
+}

@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Medication_Route-51_2",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Medication_Route-51_2 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Medication_Route-51_2.shex"
+}

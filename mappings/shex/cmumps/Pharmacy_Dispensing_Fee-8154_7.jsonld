@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Pharmacy_Dispensing_Fee-8154_7",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Pharmacy_Dispensing_Fee-8154_7 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Pharmacy_Dispensing_Fee-8154_7.shex"
+}

@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Wam_Data_Set_Id-8185_1",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Wam_Data_Set_Id-8185_1 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Wam_Data_Set_Id-8185_1.shex"
+}

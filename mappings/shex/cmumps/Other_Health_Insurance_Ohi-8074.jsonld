@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Other_Health_Insurance_Ohi-8074",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Other_Health_Insurance_Ohi-8074 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Other_Health_Insurance_Ohi-8074.shex"
+}

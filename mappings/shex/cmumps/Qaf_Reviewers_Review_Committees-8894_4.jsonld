@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Qaf_Reviewers_Review_Committees-8894_4",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Qaf_Reviewers_Review_Committees-8894_4 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Qaf_Reviewers_Review_Committees-8894_4.shex"
+}

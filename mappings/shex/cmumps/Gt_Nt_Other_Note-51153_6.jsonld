@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Gt_Nt_Other_Note-51153_6",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Gt_Nt_Other_Note-51153_6 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Gt_Nt_Other_Note-51153_6.shex"
+}

@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Hipaa_Institutional_Provider_Taxonomy-8171_2",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Hipaa_Institutional_Provider_Taxonomy-8171_2 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Hipaa_Institutional_Provider_Taxonomy-8171_2.shex"
+}

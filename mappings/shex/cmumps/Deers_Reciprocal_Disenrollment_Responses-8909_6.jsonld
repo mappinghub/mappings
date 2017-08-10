@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Deers_Reciprocal_Disenrollment_Responses-8909_6",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Deers_Reciprocal_Disenrollment_Responses-8909_6 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Deers_Reciprocal_Disenrollment_Responses-8909_6.shex"
+}

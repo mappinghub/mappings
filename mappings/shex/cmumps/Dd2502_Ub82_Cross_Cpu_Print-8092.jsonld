@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Dd2502_Ub82_Cross_Cpu_Print-8092",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Dd2502_Ub82_Cross_Cpu_Print-8092 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Dd2502_Ub82_Cross_Cpu_Print-8092.shex"
+}

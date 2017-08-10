@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Batch_Invoice__Receipts-8029",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Batch_Invoice__Receipts-8029 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Batch_Invoice__Receipts-8029.shex"
+}

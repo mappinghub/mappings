@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Instrument_Interface_Parameters-62_7",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Instrument_Interface_Parameters-62_7 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Instrument_Interface_Parameters-62_7.shex"
+}

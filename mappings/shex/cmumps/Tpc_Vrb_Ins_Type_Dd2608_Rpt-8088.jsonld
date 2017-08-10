@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Tpc_Vrb_Ins_Type_Dd2608_Rpt-8088",
+  "version": "0.1",
+  "description": "Translates CMUMPS JSON-LD Tpc_Vrb_Ins_Type_Dd2608_Rpt-8088 to the ShEx common schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Tpc_Vrb_Ins_Type_Dd2608_Rpt-8088.shex"
+}

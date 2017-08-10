@@ -2,10 +2,10 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Radiology_Reports-74",
   "version": "0.1",
-  "description": "Translates a CMUMPS JSON-LD patient radiology report to the common schema, using ShEx",
+  "description": "Translates CMUMPS JSON-LD Radiology_Reports-74 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
-  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Radiology-Reports-74.shex"
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Radiology_Reports-74.shex"
 }
