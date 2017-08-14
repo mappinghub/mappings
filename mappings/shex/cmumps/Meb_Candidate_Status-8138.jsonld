@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Meb_Candidate_Status-8138",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Meb_Candidate_Status-8138 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Meb_Candidate_Status-8138 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

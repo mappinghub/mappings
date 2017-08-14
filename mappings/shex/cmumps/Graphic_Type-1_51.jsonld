@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Graphic_Type-1_51",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Graphic_Type-1_51 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Graphic_Type-1_51 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

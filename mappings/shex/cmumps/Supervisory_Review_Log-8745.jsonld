@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Supervisory_Review_Log-8745",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Supervisory_Review_Log-8745 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Supervisory_Review_Log-8745 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

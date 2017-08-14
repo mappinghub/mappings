@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Equipment_Log-8901",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Equipment_Log-8901 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Equipment_Log-8901 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

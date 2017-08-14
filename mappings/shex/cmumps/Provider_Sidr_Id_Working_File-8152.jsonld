@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Provider_Sidr_Id_Working_File-8152",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Provider_Sidr_Id_Working_File-8152 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Provider_Sidr_Id_Working_File-8152 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

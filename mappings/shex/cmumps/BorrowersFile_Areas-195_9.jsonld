@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "BorrowersFile_Areas-195_9",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD BorrowersFile_Areas-195_9 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD BorrowersFile_Areas-195_9 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

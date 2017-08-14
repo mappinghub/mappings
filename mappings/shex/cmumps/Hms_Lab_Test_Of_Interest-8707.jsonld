@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Hms_Lab_Test_Of_Interest-8707",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Hms_Lab_Test_Of_Interest-8707 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Hms_Lab_Test_Of_Interest-8707 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

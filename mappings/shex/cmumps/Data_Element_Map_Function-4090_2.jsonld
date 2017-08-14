@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Data_Element_Map_Function-4090_2",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Data_Element_Map_Function-4090_2 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Data_Element_Map_Function-4090_2 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

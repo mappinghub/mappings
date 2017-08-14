@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Allergies_Definitions-8254_011",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Allergies_Definitions-8254_011 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Allergies_Definitions-8254_011 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

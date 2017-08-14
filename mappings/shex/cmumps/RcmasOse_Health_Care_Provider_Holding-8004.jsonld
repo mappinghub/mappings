@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "RcmasOse_Health_Care_Provider_Holding-8004",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD RcmasOse_Health_Care_Provider_Holding-8004 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD RcmasOse_Health_Care_Provider_Holding-8004 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

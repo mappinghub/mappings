@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Rad_SpecialTeaching_Sort_Criteria-74_9991",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Rad_SpecialTeaching_Sort_Criteria-74_9991 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Rad_SpecialTeaching_Sort_Criteria-74_9991 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

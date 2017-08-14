@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Uscg_Dd7A_Patient_Category_Billing_File-8058_8",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Uscg_Dd7A_Patient_Category_Billing_File-8058_8 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Uscg_Dd7A_Patient_Category_Billing_File-8058_8 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

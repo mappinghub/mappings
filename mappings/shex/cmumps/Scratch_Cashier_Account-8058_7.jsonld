@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Scratch_Cashier_Account-8058_7",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Scratch_Cashier_Account-8058_7 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Scratch_Cashier_Account-8058_7 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

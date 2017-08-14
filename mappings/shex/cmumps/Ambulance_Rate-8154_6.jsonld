@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Ambulance_Rate-8154_6",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Ambulance_Rate-8154_6 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Ambulance_Rate-8154_6 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

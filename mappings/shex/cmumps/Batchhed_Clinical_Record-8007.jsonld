@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Batchhed_Clinical_Record-8007",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Batchhed_Clinical_Record-8007 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Batchhed_Clinical_Record-8007 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

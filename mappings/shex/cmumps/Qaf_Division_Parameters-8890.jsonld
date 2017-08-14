@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Qaf_Division_Parameters-8890",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Qaf_Division_Parameters-8890 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Qaf_Division_Parameters-8890 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

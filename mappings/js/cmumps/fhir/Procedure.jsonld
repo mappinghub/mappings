@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Procedure",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD patient procedures to FHIR JSON-LD, using a Javascript translator",
+  "description": "Translates CHCS JSON-LD patient procedures to FHIR JSON-LD, using a Javascript translator",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

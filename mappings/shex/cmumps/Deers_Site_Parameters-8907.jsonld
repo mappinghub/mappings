@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Deers_Site_Parameters-8907",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Deers_Site_Parameters-8907 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Deers_Site_Parameters-8907 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

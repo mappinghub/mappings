@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Smtp_Transmission_Queue-3_96",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Smtp_Transmission_Queue-3_96 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Smtp_Transmission_Queue-3_96 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

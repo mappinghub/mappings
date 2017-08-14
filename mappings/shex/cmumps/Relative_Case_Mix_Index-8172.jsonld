@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Relative_Case_Mix_Index-8172",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Relative_Case_Mix_Index-8172 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Relative_Case_Mix_Index-8172 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

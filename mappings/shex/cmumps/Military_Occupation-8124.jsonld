@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Military_Occupation-8124",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Military_Occupation-8124 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Military_Occupation-8124 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

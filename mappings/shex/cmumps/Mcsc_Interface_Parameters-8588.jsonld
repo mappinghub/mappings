@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Mcsc_Interface_Parameters-8588",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Mcsc_Interface_Parameters-8588 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Mcsc_Interface_Parameters-8588 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

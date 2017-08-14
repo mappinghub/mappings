@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Background_Process_Control-4004",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Background_Process_Control-4004 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Background_Process_Control-4004 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Label_Print_Field-194_5",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Label_Print_Field-194_5 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Label_Print_Field-194_5 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

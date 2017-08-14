@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Mailman_Time_Zone-4_4",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Mailman_Time_Zone-4_4 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Mailman_Time_Zone-4_4 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

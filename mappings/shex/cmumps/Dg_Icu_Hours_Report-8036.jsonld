@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Dg_Icu_Hours_Report-8036",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Dg_Icu_Hours_Report-8036 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Dg_Icu_Hours_Report-8036 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Dietetics_Site_Parameters-8406_9",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Dietetics_Site_Parameters-8406_9 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Dietetics_Site_Parameters-8406_9 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

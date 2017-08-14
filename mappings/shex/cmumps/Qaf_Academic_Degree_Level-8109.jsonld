@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Qaf_Academic_Degree_Level-8109",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Qaf_Academic_Degree_Level-8109 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Qaf_Academic_Degree_Level-8109 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

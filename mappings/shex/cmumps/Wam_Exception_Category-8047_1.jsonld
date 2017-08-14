@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Wam_Exception_Category-8047_1",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Wam_Exception_Category-8047_1 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Wam_Exception_Category-8047_1 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

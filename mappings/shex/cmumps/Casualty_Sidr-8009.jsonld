@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Casualty_Sidr-8009",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Casualty_Sidr-8009 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Casualty_Sidr-8009 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

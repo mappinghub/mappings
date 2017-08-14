@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Software_Package_Element_Types-8935",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Software_Package_Element_Types-8935 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Software_Package_Element_Types-8935 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

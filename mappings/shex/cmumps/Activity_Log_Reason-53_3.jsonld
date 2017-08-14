@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Activity_Log_Reason-53_3",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Activity_Log_Reason-53_3 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Activity_Log_Reason-53_3 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

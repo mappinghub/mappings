@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Person_Association_Reason_Code-8521_1",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Person_Association_Reason_Code-8521_1 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Person_Association_Reason_Code-8521_1 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

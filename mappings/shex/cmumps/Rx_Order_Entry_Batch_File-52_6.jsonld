@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Rx_Order_Entry_Batch_File-52_6",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Rx_Order_Entry_Batch_File-52_6 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Rx_Order_Entry_Batch_File-52_6 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

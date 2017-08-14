@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Blood_Type_Bulletin_Recipients-8713",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Blood_Type_Bulletin_Recipients-8713 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Blood_Type_Bulletin_Recipients-8713 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

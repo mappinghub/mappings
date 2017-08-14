@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Spool_Doc_Conversion-8997",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Spool_Doc_Conversion-8997 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Spool_Doc_Conversion-8997 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

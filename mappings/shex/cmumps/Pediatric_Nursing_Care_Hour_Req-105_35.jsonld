@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Pediatric_Nursing_Care_Hour_Req-105_35",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Pediatric_Nursing_Care_Hour_Req-105_35 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Pediatric_Nursing_Care_Hour_Req-105_35 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

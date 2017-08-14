@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Action_Bar-8985",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Action_Bar-8985 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Action_Bar-8985 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

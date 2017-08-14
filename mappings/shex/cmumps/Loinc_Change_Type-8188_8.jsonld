@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Loinc_Change_Type-8188_8",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Loinc_Change_Type-8188_8 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Loinc_Change_Type-8188_8 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Oro_Words_And_Phrases-106",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Oro_Words_And_Phrases-106 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Oro_Words_And_Phrases-106 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

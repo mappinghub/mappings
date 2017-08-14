@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Provider_Merge_Batch_File-6_7777",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Provider_Merge_Batch_File-6_7777 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Provider_Merge_Batch_File-6_7777 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

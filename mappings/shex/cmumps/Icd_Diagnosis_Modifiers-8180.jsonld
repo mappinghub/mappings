@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Icd_Diagnosis_Modifiers-8180",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Icd_Diagnosis_Modifiers-8180 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Icd_Diagnosis_Modifiers-8180 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Family_Member_Prefix-8110",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Family_Member_Prefix-8110 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Family_Member_Prefix-8110 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"

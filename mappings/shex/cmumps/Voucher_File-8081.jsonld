@@ -2,7 +2,7 @@
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Voucher_File-8081",
   "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Voucher_File-8081 to the ShEx common schema",
+  "description": "Translates CHCS JSON-LD Voucher_File-8081 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
