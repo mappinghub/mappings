@@ -7,5 +7,13 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
-  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Absent_Status-8131.shex"
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Absent_Status-8131.shex",
+  "sampleInputArray" : [
+      "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Absent_Status-8131.jsonld",
+      "https://github.com/rdf-pipeline/translators/blob/master/src/shex/cmumps/common/data/Absent_Status-8131.ttl"
+  ],
+  "sampleInputHash" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Absent_Status-8131.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/cmumps/common/data/Absent_Status-8131.ttl"
+  }
 }
