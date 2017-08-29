@@ -7,5 +7,5 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
-  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Pharmacy_Patient_Safety_Parameters-58_01.shex"
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Pharmacy_Patient_Safety_Parameters-58_01.shex"
 }

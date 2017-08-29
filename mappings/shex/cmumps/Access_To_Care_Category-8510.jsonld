@@ -1,11 +1,23 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Access_To_Care_Category-8510",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Access_To_Care_Category-8510 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
-  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Access_To_Care_Category-8510.shex"
+  "description": "Translates CHCS Access_To_Care_Category-8510 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema lists all of the possible access to healthcare categories",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/cmumps-nc/Access_To_Care_Category-8510.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Access_To_Care_Category-8510.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Access_To_Care_Category-8510.ttl"
+  },
+  "sampleOutput" : {
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Access_To_Care_Category-8510.ttl"
+  },
+
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Access_To_Care_Category-8510.shex"
 }

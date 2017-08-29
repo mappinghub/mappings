@@ -7,5 +7,5 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
-  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Mcp_Patient_Type-8565.shex"
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Mcp_Patient_Type-8565.shex"
 }
