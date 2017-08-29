@@ -1,19 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Absent_Status-8131",
-  "version": "0.1",
-  "description": "Translates CMUMPS JSON-LD Absent_Status-8131 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
-  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/cmumps/common/Absent_Status-8131.shex",
-  "sampleInputArray" : [
-      "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Absent_Status-8131.jsonld",
-      "https://github.com/rdf-pipeline/translators/blob/master/src/shex/cmumps/common/data/Absent_Status-8131.ttl"
-  ],
-  "sampleInputHash" : {
+
+  "description": "Translates CHCS Absent_Status-8131 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema defines the list of all absent status designations",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Absent_Status-8131.htm",
+
+  "sampleInput" : {
       "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Absent_Status-8131.jsonld",
-      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/cmumps/common/data/Absent_Status-8131.ttl"
-  }
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Absent_Status-8131.ttl"
+  },
+  "sampleOutput" : {
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Absent_Status-8131.ttl"
+  },
+
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Absent_Status-8131.shex"
 }
