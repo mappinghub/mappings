@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Anesthesia_Rate-8154_3",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Anesthesia_Rate-8154_3 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Anesthesia_Rate-8154_3 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema represents the standard DOD (Group 1) file which is sent fully populated to the sites, with annual updates; it contains a flat rate for each Anesthesia CPT code",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Anesthesia_Rate-8154_3.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Anesthesia_Rate-8154_3.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Anesthesia_Rate-8154_3.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Anesthesia_Rate-8154_3.val"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Anesthesia_Rate-8154_3.shex"
 }
