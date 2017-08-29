@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Allergies_Definitions-8254_011",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Allergies_Definitions-8254_011 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Allergies_Definitions-8254_011 to the ShEx common schema",
+
+    "schemaSummary": "The data in this schema provides the actual definitions used by the system to do clinical screening",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Allergies_Definitions-8254_011.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Allergies_Definitions-8254_011.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Allergies_Definitions-8254_011.ttl"
+  },
+  "sampleOutput" : {
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Allergies_Definitions-8254_011.ttl"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Allergies_Definitions-8254_011.shex"
 }

@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Additional_Medical_Treatment_Facility-8101_1",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Additional_Medical_Treatment_Facility-8101_1 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Additional_Medical_Treatment_Facility-8101_1 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains Medical Treatment Facility (MTF) entries that are not part of the standard set of entries (Group 3)."
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Additional_Medical_Treatment_Facility-8101_1.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Additional_Medical_Treatment_Facility-8101_1.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Additional_Medical_Treatment_Facility-8101_1.ttl"
+  },
+  "sampleOutput" : {
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Additional_Medical_Treatment_Facility-8101_1.ttl"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Additional_Medical_Treatment_Facility-8101_1.shex"
 }
