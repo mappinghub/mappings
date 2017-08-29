@@ -9,7 +9,7 @@
 
   "description": "Translates CHCS JSON-LD Additional_Medical_Treatment_Facility-8101_1 to the ShEx common schema",
 
-  "schemaSummary": "The data stored in this schema contains Medical Treatment Facility (MTF) entries that are not part of the standard set of entries (Group 3)."
+  "schemaSummary": "The data stored in this schema contains Medical Treatment Facility (MTF) entries that are not part of the standard set of entries (Group 3).",
   "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Additional_Medical_Treatment_Facility-8101_1.htm",
 
   "sampleInput" : {
