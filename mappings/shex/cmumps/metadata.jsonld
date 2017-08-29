@@ -1,5 +1,5 @@
 { 
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "maps": [ { "source": "cmumps", "target": "shex-common"},
-	    { "source": "shex-common", "target": "cmumps"} ]
+  "maps": [ { "source": "chcs", "target": "shex-common"},
+	    { "source": "shex-common", "target": "chcs"} ]
 }
