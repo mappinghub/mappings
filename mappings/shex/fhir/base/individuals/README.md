@@ -1,8 +1,7 @@
 # Individuals 
 
 This directory holds ShEx FHIR mappings for translating from common ShEx to FHIR:
-* [Patient](https://github.com/mappinghub/mappings) 
-by mapping language, source format, and target format.
+* [Patient](https://www.hl7.org/fhir/patient.html)
 * [Practitioner](https://www.hl7.org/fhir/practitioner.html)
 * [PractitionerRole](https://www.hl7.org/fhir/practitionerrole.html) 
 * [RelatedPerson](https://www.hl7.org/fhir/relatedperson.html)
