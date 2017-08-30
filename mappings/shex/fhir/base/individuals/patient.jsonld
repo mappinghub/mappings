@@ -1,0 +1,22 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Patient",
+  "version": "0.2",
+  "description": "Translates from a ShEx common schema for patient demographics to the FHIR patient schema",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+
+  "schemaSummary": "The data stored in this schema describes patients and animals involved in a wide range of health-related activities",
+  "schemaDocumentation": "https://www.hl7.org/fhir/patient.html",
+
+  "sampleInput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Patient-2.val"
+  },
+  "sampleOutput" : {
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/fhir/output_data/patient.ttl"
+  },
+
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/fhir/patient.shex"
+}

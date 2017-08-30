@@ -8,7 +8,7 @@
       "email": "glenna.hokukahu@gmail.com"
   },
 
-  "schemaSummary": "The data stored in this schema describes patients and animals involved in a wide range of health-related activities",
+  "schemaSummary": "The data stored in this schema describes all individuals who are engaged in the healthcare process and healthcare-related services as part of their formal responsibilities and this Resource is used for attribution of activities and responsibilities to these individuals",
   "schemaDocumentation": "https://www.hl7.org/fhir/practitioner.html",
 
   "sampleInput" : {
