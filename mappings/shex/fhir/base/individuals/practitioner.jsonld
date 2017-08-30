@@ -1,6 +1,6 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "name": "Patient",
+  "name": "practitioner",
   "version": "0.2",
   "description": "Translates from a ShEx common schema for patient demographics to the FHIR patient schema",
   "author": {
@@ -9,14 +9,14 @@
   },
 
   "schemaSummary": "The data stored in this schema describes patients and animals involved in a wide range of health-related activities",
-  "schemaDocumentation": "https://www.hl7.org/fhir/patient.html",
+  "schemaDocumentation": "https://www.hl7.org/fhir/practitioner.html",
 
   "sampleInput" : {
-      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Patient-2.val"
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Provider-6.val"
   },
   "sampleOutput" : {
-      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/fhir/output_data/patient.ttl"
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/fhir/output_data/practitioner.ttl"
   },
 
-  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/fhir/patient.shex"
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/fhir/practitioner.shex"
 }
