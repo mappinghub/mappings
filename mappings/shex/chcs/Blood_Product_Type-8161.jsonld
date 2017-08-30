@@ -1,11 +1,25 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Blood_Product_Type-8161",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Blood_Product_Type-8161 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Blood_Product_Type-8161 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains types of blood products currently available from the Defense Blood Standard System",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Blood_Product_Type-8161.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Blood_Product_Type-8161.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Blood_Product_Type-8161.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Blood_Product_Type-8161.val"
+  },
+
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Blood_Product_Type-8161.shex"
 }
