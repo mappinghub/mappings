@@ -1,6 +1,6 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "name": "practitioner",
+  "name": "Practitioner",
   "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
