@@ -15,5 +15,5 @@ by mapping language, source format, and target format.
 # How to Contribute
 
 Mappings may be created as .jsonld files in the mappings/ directory
- * The build script ignores .md files, so you may place any needed documentation alongside contributed mappings
+ * The build script ignores all buy .jsonld files, so you may place any needed documentation (markdown/html) alongside contributed mappings
  * Currently, all levels of the directory structure must include a metadata.json file, even if it's just an empty object -- this should change soon
