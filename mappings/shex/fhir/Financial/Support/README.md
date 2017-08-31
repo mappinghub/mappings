@@ -1,6 +1,6 @@
-# Billing 
+# Support 
 
-This directory holds FHIR Billing mappings for translating from common ShEx to FHIR:
+This directory holds FHIR Support mappings for translating from common ShEx to FHIR:
 * [Coverage](https://www.hl7.org/fhir/coverage.html)
 * [EligibilityRequest](https://www.hl7.org/fhir/eligibilityrequest.html)
 * [EligibilityResponse](https://www.hl7.org/fhir/eligibilityresponse.html)
