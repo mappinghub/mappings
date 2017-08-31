@@ -1,6 +1,6 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "name": "Patient",
+  "name": "Procedure",
   "version": "0.2",
   "description": "Translates from a ShEx common schema for a procedure to the FHIR procedure schema",
   "author": {
