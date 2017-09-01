@@ -1,11 +1,25 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Family_Member_Prefix-8110",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Translates CHCS JSON-LD Family_Member_Prefix-8110 to the ShEx common schema",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Family_Member_Prefix-8110 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains a table of codes and descriptions for all family member prefixes",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Family_Member_Prefix-8110.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Family_Member_Prefix-8110.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Family_Member_Prefix-8110.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Family_Member_Prefix-8110.val"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Family_Member_Prefix-8110.shex"
 }

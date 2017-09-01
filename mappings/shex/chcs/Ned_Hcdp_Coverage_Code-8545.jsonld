@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Ned_Hcdp_Coverage_Code-8545",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Ned_Hcdp_Coverage_Code-8545 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Ned_Hcdp_Coverage_Code-8545 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains the National Enrollment Database Health Care Delivery Program Coverage Codes",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ned_Hcdp_Coverage_Code-8545.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Ned_Hcdp_Coverage_Code-8545.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Ned_Hcdp_Coverage_Code-8545.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Ned_Hcdp_Coverage_Code-8545.val"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Ned_Hcdp_Coverage_Code-8545.shex"
 }

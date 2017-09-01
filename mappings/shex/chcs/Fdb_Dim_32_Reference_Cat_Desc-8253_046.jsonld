@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Fdb_Dim_32_Reference_Cat_Desc-8253_046",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Fdb_Dim_32_Reference_Cat_Desc-8253_046 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Fdb_Dim_32_Reference_Cat_Desc-8253_046 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema holds the FDB Dim table that contains the definition of DDI Reference Categories",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Fdb_Dim_32_Reference_Cat_Desc-8253_046.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Fdb_Dim_32_Reference_Cat_Desc-8253_046.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Fdb_Dim_32_Reference_Cat_Desc-8253_046.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Fdb_Dim_32_Reference_Cat_Desc-8253_046.val"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Fdb_Dim_32_Reference_Cat_Desc-8253_046.shex"
 }

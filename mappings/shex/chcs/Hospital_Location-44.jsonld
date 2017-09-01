@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Hospital_Location-44",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Hospital_Location-44 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Hospital_Location-44 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains the profile information for the Clinics and the Health Care Provider profiles for each Health Care Provider within each Clinic",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Hospital_Location-44.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Hospital_Location-44.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Hospital_Location-44.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Hospital_Location-44.val"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Hospital_Location-44.shex"
 }
