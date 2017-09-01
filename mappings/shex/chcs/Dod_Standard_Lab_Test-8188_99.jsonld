@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Dod_Standard_Lab_Test-8188_99",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Dod_Standard_Lab_Test-8188_99 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Dod_Standard_Lab_Test-8188_99 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains the standardized Lab test names supplied by the Government and is used to standardize the CHCS lab tests",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Dod_Standard_Lab_Test-8188_99.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Dod_Standard_Lab_Test-8188_99.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Dod_Standard_Lab_Test-8188_99.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Dod_Standard_Lab_Test-8188_99.val"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Dod_Standard_Lab_Test-8188_99.shex"
 }
