@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Cause_Of_Injury-8137",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Cause_Of_Injury-8137 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Cause_Of_Injury-8137 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains codes and descriptions for injuries. Specifically, it defines the type of injury sustained by the patient.",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Cause_Of_Injury-8137.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Cause_Of_Injury-8137.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Cause_Of_Injury-8137.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Cause_Of_Injury-8137.val"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Cause_Of_Injury-8137.shex"
 }
