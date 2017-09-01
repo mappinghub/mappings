@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Provider-6",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Provider-6 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Provider-6 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains personal and professional data about the people who provide patient care services at this site.",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Provider-6.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Provider-6.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Provider-6.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Provider-6.val"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Provider-6.shex"
 }

@@ -1,11 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
   "name": "Pharmacy_Action-59_6",
-  "version": "0.1",
-  "description": "Translates CHCS JSON-LD Pharmacy_Action-59_6 to the ShEx common schema",
+  "version": "0.2",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+
+  "description": "Translates CHCS JSON-LD Pharmacy_Action-59_6 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains the pharmacy actions that may be taken based on IV action profile",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pharmacy_Action-59_6.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Pharmacy_Action-59_6.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Pharmacy_Action-59_6.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Pharmacy_Action-59_6.val"
+  },
+
   "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Pharmacy_Action-59_6.shex"
 }
