@@ -9,7 +9,7 @@
   "description": "Translates CHCS Access_To_Care_Category-8510 to the ShEx common schema",
 
   "schemaSummary": "The data stored in this schema lists all of the possible access to healthcare categories",
-  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/cmumps-nc/Access_To_Care_Category-8510.htm",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Access_To_Care_Category-8510.htm",
 
   "sampleInput" : {
       "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Access_To_Care_Category-8510.jsonld",

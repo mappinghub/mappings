@@ -9,7 +9,7 @@
 
   "description": "Translates CHCS JSON-LD Cause_Of_Injury-8137 to the ShEx common schema",
 
-  "schemaSummary": "The data stored in this schema contains codes and descriptions for injuries. Specifically, it defines the type of injury sustained by the patient.",
+  "schemaSummary": "The data stored in this schema contains codes and descriptions for injuries. Specifically, it defines the type of injury sustained by the patient",
   "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Cause_Of_Injury-8137.htm",
 
   "sampleInput" : {
