@@ -1,0 +1,24 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Fetal_Presentation_Type-8183",
+  "version": "0.2",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+
+  "description": "Translates CHCS JSON-LD Fetal_Presentation_Type-8183 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains all outpatient RX data used by the outpatient pharmacy package",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Fetal_Presentation_Type-8183.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Fetal_Presentation_Type-8183.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Fetal_Presentation_Type-8183.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Fetal_Presentation_Type-8183.val"
+  },
+
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Fetal_Presentation_Type-8183.shex"
+}
