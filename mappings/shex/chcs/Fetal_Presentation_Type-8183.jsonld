@@ -9,7 +9,7 @@
 
   "description": "Translates CHCS JSON-LD Fetal_Presentation_Type-8183 to the ShEx common schema",
 
-  "schemaSummary": "The data stored in this schema contains all outpatient RX data used by the outpatient pharmacy package",
+  "schemaSummary":  "The data stored in this schema contains a table (code and description) of fetal presentation types that are categorized by \"LIVEBIRTH\" and \"FETAL DEATH\"",
   "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Fetal_Presentation_Type-8183.htm",
 
   "sampleInput" : {
