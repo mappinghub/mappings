@@ -1,0 +1,24 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Medication_Profile-8810_3",
+  "version": "0.2",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+
+  "description": "Translates CHCS Medication_Profile-8810_3 to the ShEx common schema",
+
+  "schemaSummary": "The data in this schema describes a patient's medication profile, such as the current medications, the medication start and stop dates, the order type, the medication frequency and the duration, as well as the name of the HCP who is ordering the medication",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Medication_Profile-8810_3.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Medication_Profile-8810_3.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Medication_Profile-8810_3.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Medication_Profile-8810_3.val"
+  },
+
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Medication_Profile-8810_3.shex"
+}
