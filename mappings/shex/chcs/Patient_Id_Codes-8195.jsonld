@@ -1,0 +1,24 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Patient_Id_Codes-8195",
+  "version": "0.2",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+
+  "description": "Translates CHCS Patient_Id_Codes-8195 to the ShEx common schema",
+
+  "schemaSummary": "The data stored in this schema contains the patient identification code and related description used to differentiate between newborns, delivery cases and all other cases",
+  "schemaDocumentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Patient_Id_Codes-8195.htm",
+
+  "sampleInput" : {
+      "jsonld": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Patient_Id_Codes-8195.jsonld",
+      "ttl": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/input_data/Patient_Id_Codes-8195.ttl"
+  },
+  "sampleOutput" : {
+      "val": "https://github.com/rdf-pipeline/translators/blob/master/src/shex/chcs/common/output_data/Patient_Id_Codes-8195.val"
+  },
+
+  "sourceCode": "https://raw.githubusercontent.com/rdf-pipeline/translators/master/src/shex/chcs/common/Patient_Id_Codes-8195.shex"
+}
