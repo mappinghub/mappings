@@ -1,4 +1,4 @@
 { 
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
-  "maps": [ { "source": "cmumps", "target": "fhir"} ]
+  "maps": [ { "source": "chcs", "target": "fhir"} ]
 }
