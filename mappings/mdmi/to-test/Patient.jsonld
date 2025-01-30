@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Test-Example",
+  "version": "0.1",
+  "description": "Testing inserting mapping into mapping hub",
+  "author": {
+      "name": "Daniel",
+      "email": ""
+  },
+  "sourceCode": "http://example.com/"
+}
