@@ -1,9 +1,9 @@
 # mappings
 Mappings and Translators
 
-This repository lists publicly available mappings (or translators) for 
-converting from source data formats (or data models or vocabularies) to 
-target data formats (or data models or vocabularies).
+This repository lists publicly available mappings (aka translators) for 
+converting from source data types (or formats or data models or vocabularies) to 
+target data types (or formats or data models or vocabularies).
 The contents can be viewed in several ways:
 * [Browse the github file structure,](https://github.com/mappinghub/mappings) 
 by mapping language, source format, and target format.
