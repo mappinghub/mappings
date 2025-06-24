@@ -1,30 +1,22 @@
 # mappings
 This repository lists publicly available mappings (aka translators) for 
-converting from source data to target data.  The Mapping Hub does not store the executable or source code that implements these mappings.
-Rather, it holds metadata describing the available mappings, with links to the executable or source code that implements the mappings.
+converting from source data to target data.  Mapping definitions can be viewed in two ways:
+* through the [Mapping Hub](https://mappinghub.org/) website; or
+* by manually browsing the [github file structure](https://github.com/mappinghub/mappings), which contains mapping definition files organized by mapping language, source type, source type version, target type, and target type version.
 
-Mappping descriptions can be viewed in several ways:
-* [Browse the github file structure,](https://github.com/mappinghub/mappings) 
-by mapping language, source format, and target format.
-* [By source format, target format and mapping language](https://github.com/mappinghub/views/sourceformat-targetformat-mappinglanguage.html) (generated view)
-* [By target format, source format and mapping language](http://example/) (generated view)
-* [By source term](http://example/) (generated view)
-* [By target term](http://example/) (generated view)
+Each available mapping is described in a **mapping definition file**, which is a .jsonld file that contains metadata about that mapping
+and includes a link to its implementation.
 
 # How to Contribute
-To tell the Mapping Hub about an available mapping, create a mapping manifest .jsonld file to describe the mapping, and place that file in the appropriate subdirectory of the [mappings directory](https://github.com/mappinghub/mappings/tree/master/mappings) in this repo.  The build script defined in the [views repo](https://github.com/mappinghub/views) ignores all but .jsonld files, so you may place any needed additional documentation (markdown/html) alongside contributed mappings.  Browse the existing [mappings directory](https://github.com/mappinghub/mappings/tree/master/mappings) in this repo for examples.
+To register a new mapping with the Mapping Hub:
+1. If your mapping uses a source or target type that has not already been registered with the Mapping Hub, you should register it using the instructions in the [elements repo](http://www.github.com/mappinghub/elements).
+2. Create a .jsonld mapping definition file, describing your mapping.  Browse the existing [mappings directory](https://github.com/mappinghub/mappings/tree/master/mappings) in this repo for examples.
+3. Place your mapping definition file in the appropriate subdirectory of the [mappings directory](https://github.com/mappinghub/mappings/tree/master/mappings) in the master branch of this repo.  The appropriate subdirectory will depend on the source and target types of your mapping.  To avoid having too many files in one subdirectory, mapping definition files are organized in a hierarchy of subdirectories based on (in this order): primary mapping implementation language, source type, source type version, target type, and target type version.  For example, the mapping definition for a mapping, written in javascript, from source type S version 1.1 to target type T version 3.2 should be placed in a subdirectory called mappings/js/S/v1.1/T/v3.2 .  If a mapping uses multiple source types, choose whichever source type you think best reflects the main purpose of the mapping, and place the mapping manifest under that subdirectory tree.  Do the same if the mapping uses multiple target types.  Do not replicate the same mapping definition under multiple source trees. 
+5. If desired, you may add another level of subdirectory and place any additional documentation (markdown/html) alongside contributed mappings, bearing in mind that any file without a .jsonld extension will be ignored by the github action that generates the Mapping Hub views.
+6. Place a metadata.json file in any subdirectory that you added.  The file should contain any properties that are common to any mapping definitions in the current directory and below, in the file hierarchy, unless overridden.  This allows common properties to be factored out and specified once, in an ancestor directory, instead of replicating them in every mapping manifest.  Every level of subdirectory below the [mappings directory](https://github.com/mappinghub/mappings/tree/master/mappings) must contain a metadata.json file, even if the file only defines an empty JSON object.  (Hopefully this requirement will be changed soon.)  See an existing example for syntax.
+7. If all goes well, a [github action script](https://github.com/mappinghub/mappinghub.github.io/actions) will automatically do the rest, to make your mapping visible in the Mapping Hub.  Check the [log](https://github.com/mappinghub/mappinghub.github.io/actions) if you think something went wrong.
 
-Mapping manifest files are organized in a hierarchy of subdirectories based on:
-* source type;
-* source type version;
-* target type; and
-* target type version.
-For example, the mapping manifest for a mapping from source type S version 1.1 to target type T version 3.2 would be placed in a subdirectory called mappings/S/v1.1/T/v3.2 .
 
-If a mapping uses multiple source types, such as S1 and S2, choose whichever source type you think best reflects the main purpose of the mapping, and place the mapping manifest under that subdirectory tree, such as only under S1.  Do not replicate the same mapping manifest under multiple source trees.  Similarly, if the mapping produces multiple target types, pick the most important one when deciding where to place the mapping manifest.
-
-Every level of subdirectory below the [mappings directory](https://github.com/mappinghub/mappings/tree/master/mappings) also must contain a metadata.json file, even if the file only defines an empty JSON object. 
-Properties defined in a metadata.json will apply to all mappings below it in the directory hierarchy, except for any properties that are overridded in a lower directory.  This allows common properties to be factored out and specified once, in an ancestor directory, instead of replicating them in every mapping manifest.
 
 
 
