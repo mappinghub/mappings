@@ -8,9 +8,9 @@
       "email": "david@dbooth.org"
   },
 
-  "sourceTypes": [ ],
+  "sourceTypes": [ 'https://raw.githubusercontent.com/mappinghub/elements/refs/heads/master/elements/shex/patient/fullName.jsonld' ],
 
-  "targetTypes": [ ],
+  "targetTypes": [ 'https://raw.githubusercontent.com/mappinghub/elements/refs/heads/master/elements/shex/patient/fullNameGivenFamily.jsonld' ],
 
   "sampleInput" : {
       "val": "https://example.org/foo"
