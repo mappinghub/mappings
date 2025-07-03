@@ -1,0 +1,23 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "fullNameFamilyGiven_to_GivenFamily",
+  "version": "0.2",
+  "description": "Translates a full name from 'Family,Given' to 'Given Family' format",
+  "author": {
+      "name": "David Booth",
+      "email": "david@dbooth.org"
+  },
+
+  "sourceTypes": [ ],
+
+  "targetTypes": [ ],
+
+  "sampleInput" : {
+      "val": "https://example.org/foo"
+  },
+  "sampleOutput" : {
+      "val": "https://example.org/foo"
+  },
+
+  "sourceCode": "https://example.org/foo"
+}
